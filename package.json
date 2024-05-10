@@ -1,5 +1,5 @@
 {
-  "name": "makepoi",
+  "name": "@turpault/makepoi",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
